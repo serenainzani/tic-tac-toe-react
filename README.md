@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Following the [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html) for my first react project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
